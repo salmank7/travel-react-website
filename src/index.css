@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.main-gradient {
+  background-color: #045de9;
+  background-image: linear-gradient(315deg, #045de9 0%, #09c6f9 74%);
+}
+.main-gradient:hover {
+  background-color: #045de9;
+  background-image: linear-gradient(315deg, #0050d0 0%, #1fafd7 74%);
+}
+
+.my-range::-webkit-slider-thumb {
+  background: #ff0000;
+}
+::-webkit-slider-thumb {
+  background: #2a1414;
+}
