@@ -130,5 +130,14 @@ export const touristDestinations = [
     shortDesc: "The Valley of Bliss",
     description: "Kashmir is a picturesque region with stunning landscapes, including serene lakes, snow-capped mountains, and beautiful valleys.",
     budget: "$$$"
-  }
+  },
+  {
+    id: 10,
+    country: "Pakistan",
+    src: Kashmir,
+    placeName: "Kashmir",
+    shortDesc: "The Valley of Bliss",
+    description: "Kashmir is a picturesque region with stunning landscapes, including serene lakes, snow-capped mountains, and beautiful valleys.",
+    budget: "$$$"
+  },
 ];

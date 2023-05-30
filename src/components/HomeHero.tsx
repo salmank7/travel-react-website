@@ -1,4 +1,4 @@
-import video from "../assets/videos/splash_-_23011 (1440p).mp4";
+import video from "../assets/videos/splash_-_23011 (1080p).mp4";
 import { FaFilter } from "react-icons/fa";
 import Destinations from "./Destinations";
 
